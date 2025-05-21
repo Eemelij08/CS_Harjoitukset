@@ -1,0 +1,7 @@
+C:\Users\179909\OneDrive - Salon seudun koulutuskuntayhtymä\C#\8 While-silmukka\8. Tehtävä 3\8. Tehtävä 3\obj\Debug\8. Tehtävä 3.csproj.AssemblyReference.cache
+C:\Users\179909\OneDrive - Salon seudun koulutuskuntayhtymä\C#\8 While-silmukka\8. Tehtävä 3\8. Tehtävä 3\obj\Debug\8. Tehtävä 3.csproj.CoreCompileInputs.cache
+C:\Users\179909\OneDrive - Salon seudun koulutuskuntayhtymä\C#\8 While-silmukka\8. Tehtävä 3\8. Tehtävä 3\bin\Debug\_8.Tehtävä_3.exe.config
+C:\Users\179909\OneDrive - Salon seudun koulutuskuntayhtymä\C#\8 While-silmukka\8. Tehtävä 3\8. Tehtävä 3\bin\Debug\_8.Tehtävä_3.exe
+C:\Users\179909\OneDrive - Salon seudun koulutuskuntayhtymä\C#\8 While-silmukka\8. Tehtävä 3\8. Tehtävä 3\bin\Debug\_8.Tehtävä_3.pdb
+C:\Users\179909\OneDrive - Salon seudun koulutuskuntayhtymä\C#\8 While-silmukka\8. Tehtävä 3\8. Tehtävä 3\obj\Debug\_8.Tehtävä_3.exe
+C:\Users\179909\OneDrive - Salon seudun koulutuskuntayhtymä\C#\8 While-silmukka\8. Tehtävä 3\8. Tehtävä 3\obj\Debug\_8.Tehtävä_3.pdb

@@ -1,0 +1,7 @@
+C:\Users\179909\OneDrive - Salon seudun koulutuskuntayhtymä\C#\7 Jos-lauseet ja Switch-rakenne\7. Tehtävä 13 uus yritys\7. Tehtävä 13 uus yritys\bin\Debug\_7.Tehtävä_13_uus_yritys.exe.config
+C:\Users\179909\OneDrive - Salon seudun koulutuskuntayhtymä\C#\7 Jos-lauseet ja Switch-rakenne\7. Tehtävä 13 uus yritys\7. Tehtävä 13 uus yritys\bin\Debug\_7.Tehtävä_13_uus_yritys.exe
+C:\Users\179909\OneDrive - Salon seudun koulutuskuntayhtymä\C#\7 Jos-lauseet ja Switch-rakenne\7. Tehtävä 13 uus yritys\7. Tehtävä 13 uus yritys\bin\Debug\_7.Tehtävä_13_uus_yritys.pdb
+C:\Users\179909\OneDrive - Salon seudun koulutuskuntayhtymä\C#\7 Jos-lauseet ja Switch-rakenne\7. Tehtävä 13 uus yritys\7. Tehtävä 13 uus yritys\obj\Debug\7. Tehtävä 13 uus yritys.csproj.AssemblyReference.cache
+C:\Users\179909\OneDrive - Salon seudun koulutuskuntayhtymä\C#\7 Jos-lauseet ja Switch-rakenne\7. Tehtävä 13 uus yritys\7. Tehtävä 13 uus yritys\obj\Debug\7. Tehtävä 13 uus yritys.csproj.CoreCompileInputs.cache
+C:\Users\179909\OneDrive - Salon seudun koulutuskuntayhtymä\C#\7 Jos-lauseet ja Switch-rakenne\7. Tehtävä 13 uus yritys\7. Tehtävä 13 uus yritys\obj\Debug\_7.Tehtävä_13_uus_yritys.exe
+C:\Users\179909\OneDrive - Salon seudun koulutuskuntayhtymä\C#\7 Jos-lauseet ja Switch-rakenne\7. Tehtävä 13 uus yritys\7. Tehtävä 13 uus yritys\obj\Debug\_7.Tehtävä_13_uus_yritys.pdb

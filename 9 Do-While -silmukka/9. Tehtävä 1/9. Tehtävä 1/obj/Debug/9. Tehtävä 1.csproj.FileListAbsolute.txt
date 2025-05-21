@@ -1,0 +1,7 @@
+C:\Users\179909\OneDrive - Salon seudun koulutuskuntayhtymä\C#\9 Do-While -silmukka\9. Tehtävä 1\9. Tehtävä 1\bin\Debug\_9.Tehtävä_1.exe.config
+C:\Users\179909\OneDrive - Salon seudun koulutuskuntayhtymä\C#\9 Do-While -silmukka\9. Tehtävä 1\9. Tehtävä 1\bin\Debug\_9.Tehtävä_1.exe
+C:\Users\179909\OneDrive - Salon seudun koulutuskuntayhtymä\C#\9 Do-While -silmukka\9. Tehtävä 1\9. Tehtävä 1\bin\Debug\_9.Tehtävä_1.pdb
+C:\Users\179909\OneDrive - Salon seudun koulutuskuntayhtymä\C#\9 Do-While -silmukka\9. Tehtävä 1\9. Tehtävä 1\obj\Debug\9. Tehtävä 1.csproj.AssemblyReference.cache
+C:\Users\179909\OneDrive - Salon seudun koulutuskuntayhtymä\C#\9 Do-While -silmukka\9. Tehtävä 1\9. Tehtävä 1\obj\Debug\9. Tehtävä 1.csproj.CoreCompileInputs.cache
+C:\Users\179909\OneDrive - Salon seudun koulutuskuntayhtymä\C#\9 Do-While -silmukka\9. Tehtävä 1\9. Tehtävä 1\obj\Debug\_9.Tehtävä_1.exe
+C:\Users\179909\OneDrive - Salon seudun koulutuskuntayhtymä\C#\9 Do-While -silmukka\9. Tehtävä 1\9. Tehtävä 1\obj\Debug\_9.Tehtävä_1.pdb

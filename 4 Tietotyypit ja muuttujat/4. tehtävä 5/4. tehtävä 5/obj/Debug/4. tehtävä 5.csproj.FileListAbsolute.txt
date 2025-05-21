@@ -1,0 +1,7 @@
+C:\Users\179909\OneDrive - Salon seudun koulutuskuntayhtymä\C#\4 Tietotyypit ja muuttujat\4. tehtävä 5\4. tehtävä 5\obj\Debug\4. tehtävä 5.csproj.AssemblyReference.cache
+C:\Users\179909\OneDrive - Salon seudun koulutuskuntayhtymä\C#\4 Tietotyypit ja muuttujat\4. tehtävä 5\4. tehtävä 5\obj\Debug\4. tehtävä 5.csproj.CoreCompileInputs.cache
+C:\Users\179909\OneDrive - Salon seudun koulutuskuntayhtymä\C#\4 Tietotyypit ja muuttujat\4. tehtävä 5\4. tehtävä 5\bin\Debug\_4.tehtävä_5.exe.config
+C:\Users\179909\OneDrive - Salon seudun koulutuskuntayhtymä\C#\4 Tietotyypit ja muuttujat\4. tehtävä 5\4. tehtävä 5\bin\Debug\_4.tehtävä_5.exe
+C:\Users\179909\OneDrive - Salon seudun koulutuskuntayhtymä\C#\4 Tietotyypit ja muuttujat\4. tehtävä 5\4. tehtävä 5\bin\Debug\_4.tehtävä_5.pdb
+C:\Users\179909\OneDrive - Salon seudun koulutuskuntayhtymä\C#\4 Tietotyypit ja muuttujat\4. tehtävä 5\4. tehtävä 5\obj\Debug\_4.tehtävä_5.exe
+C:\Users\179909\OneDrive - Salon seudun koulutuskuntayhtymä\C#\4 Tietotyypit ja muuttujat\4. tehtävä 5\4. tehtävä 5\obj\Debug\_4.tehtävä_5.pdb

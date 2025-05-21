@@ -1,0 +1,7 @@
+C:\Users\179909\OneDrive - Salon seudun koulutuskuntayhtymä\C#\6 Merkkijonot\6. Tehtävä 1 jatkoosaelilisäätestailua\6. Tehtävä 1 jatkoosaelilisäätestailua\bin\Debug\_6.Tehtävä_1_jatkoosaelilisäätestailua.exe.config
+C:\Users\179909\OneDrive - Salon seudun koulutuskuntayhtymä\C#\6 Merkkijonot\6. Tehtävä 1 jatkoosaelilisäätestailua\6. Tehtävä 1 jatkoosaelilisäätestailua\bin\Debug\_6.Tehtävä_1_jatkoosaelilisäätestailua.exe
+C:\Users\179909\OneDrive - Salon seudun koulutuskuntayhtymä\C#\6 Merkkijonot\6. Tehtävä 1 jatkoosaelilisäätestailua\6. Tehtävä 1 jatkoosaelilisäätestailua\bin\Debug\_6.Tehtävä_1_jatkoosaelilisäätestailua.pdb
+C:\Users\179909\OneDrive - Salon seudun koulutuskuntayhtymä\C#\6 Merkkijonot\6. Tehtävä 1 jatkoosaelilisäätestailua\6. Tehtävä 1 jatkoosaelilisäätestailua\obj\Debug\6. Tehtävä 1 jatkoosaelilisäätestailua.csproj.AssemblyReference.cache
+C:\Users\179909\OneDrive - Salon seudun koulutuskuntayhtymä\C#\6 Merkkijonot\6. Tehtävä 1 jatkoosaelilisäätestailua\6. Tehtävä 1 jatkoosaelilisäätestailua\obj\Debug\6. Tehtävä 1 jatkoosaelilisäätestailua.csproj.CoreCompileInputs.cache
+C:\Users\179909\OneDrive - Salon seudun koulutuskuntayhtymä\C#\6 Merkkijonot\6. Tehtävä 1 jatkoosaelilisäätestailua\6. Tehtävä 1 jatkoosaelilisäätestailua\obj\Debug\_6.Tehtävä_1_jatkoosaelilisäätestailua.exe
+C:\Users\179909\OneDrive - Salon seudun koulutuskuntayhtymä\C#\6 Merkkijonot\6. Tehtävä 1 jatkoosaelilisäätestailua\6. Tehtävä 1 jatkoosaelilisäätestailua\obj\Debug\_6.Tehtävä_1_jatkoosaelilisäätestailua.pdb

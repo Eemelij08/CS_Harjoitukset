@@ -1,0 +1,7 @@
+D:\Koulu_Koodaus\13\13. Tehtävä 5\13. Tehtävä 5\13. Tehtävä 5\bin\Debug\_13.Tehtävä_5.exe.config
+D:\Koulu_Koodaus\13\13. Tehtävä 5\13. Tehtävä 5\13. Tehtävä 5\bin\Debug\_13.Tehtävä_5.exe
+D:\Koulu_Koodaus\13\13. Tehtävä 5\13. Tehtävä 5\13. Tehtävä 5\bin\Debug\_13.Tehtävä_5.pdb
+D:\Koulu_Koodaus\13\13. Tehtävä 5\13. Tehtävä 5\13. Tehtävä 5\obj\Debug\13. Tehtävä 5.csproj.AssemblyReference.cache
+D:\Koulu_Koodaus\13\13. Tehtävä 5\13. Tehtävä 5\13. Tehtävä 5\obj\Debug\13. Tehtävä 5.csproj.CoreCompileInputs.cache
+D:\Koulu_Koodaus\13\13. Tehtävä 5\13. Tehtävä 5\13. Tehtävä 5\obj\Debug\_13.Tehtävä_5.exe
+D:\Koulu_Koodaus\13\13. Tehtävä 5\13. Tehtävä 5\13. Tehtävä 5\obj\Debug\_13.Tehtävä_5.pdb

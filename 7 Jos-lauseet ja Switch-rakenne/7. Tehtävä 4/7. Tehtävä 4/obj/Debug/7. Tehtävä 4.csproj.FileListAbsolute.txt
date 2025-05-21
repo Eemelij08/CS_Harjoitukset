@@ -1,0 +1,7 @@
+C:\Users\179909\OneDrive - Salon seudun koulutuskuntayhtymä\C#\7 Jos-lauseet ja Switch-rakenne\7. Tehtävä 4\7. Tehtävä 4\bin\Debug\_7.Tehtävä_4.exe.config
+C:\Users\179909\OneDrive - Salon seudun koulutuskuntayhtymä\C#\7 Jos-lauseet ja Switch-rakenne\7. Tehtävä 4\7. Tehtävä 4\bin\Debug\_7.Tehtävä_4.exe
+C:\Users\179909\OneDrive - Salon seudun koulutuskuntayhtymä\C#\7 Jos-lauseet ja Switch-rakenne\7. Tehtävä 4\7. Tehtävä 4\bin\Debug\_7.Tehtävä_4.pdb
+C:\Users\179909\OneDrive - Salon seudun koulutuskuntayhtymä\C#\7 Jos-lauseet ja Switch-rakenne\7. Tehtävä 4\7. Tehtävä 4\obj\Debug\7. Tehtävä 4.csproj.AssemblyReference.cache
+C:\Users\179909\OneDrive - Salon seudun koulutuskuntayhtymä\C#\7 Jos-lauseet ja Switch-rakenne\7. Tehtävä 4\7. Tehtävä 4\obj\Debug\7. Tehtävä 4.csproj.CoreCompileInputs.cache
+C:\Users\179909\OneDrive - Salon seudun koulutuskuntayhtymä\C#\7 Jos-lauseet ja Switch-rakenne\7. Tehtävä 4\7. Tehtävä 4\obj\Debug\_7.Tehtävä_4.exe
+C:\Users\179909\OneDrive - Salon seudun koulutuskuntayhtymä\C#\7 Jos-lauseet ja Switch-rakenne\7. Tehtävä 4\7. Tehtävä 4\obj\Debug\_7.Tehtävä_4.pdb

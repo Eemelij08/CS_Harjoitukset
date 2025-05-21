@@ -1,0 +1,7 @@
+C:\Users\179909\OneDrive - Salon seudun koulutuskuntayhtymä\C#\11 List-luokka\11. Tehtävä 8 oikea\11. Tehtävä 8 oikea\bin\Debug\_11.Tehtävä_8_oikea.exe.config
+C:\Users\179909\OneDrive - Salon seudun koulutuskuntayhtymä\C#\11 List-luokka\11. Tehtävä 8 oikea\11. Tehtävä 8 oikea\bin\Debug\_11.Tehtävä_8_oikea.exe
+C:\Users\179909\OneDrive - Salon seudun koulutuskuntayhtymä\C#\11 List-luokka\11. Tehtävä 8 oikea\11. Tehtävä 8 oikea\bin\Debug\_11.Tehtävä_8_oikea.pdb
+C:\Users\179909\OneDrive - Salon seudun koulutuskuntayhtymä\C#\11 List-luokka\11. Tehtävä 8 oikea\11. Tehtävä 8 oikea\obj\Debug\11. Tehtävä 8 oikea.csproj.AssemblyReference.cache
+C:\Users\179909\OneDrive - Salon seudun koulutuskuntayhtymä\C#\11 List-luokka\11. Tehtävä 8 oikea\11. Tehtävä 8 oikea\obj\Debug\11. Tehtävä 8 oikea.csproj.CoreCompileInputs.cache
+C:\Users\179909\OneDrive - Salon seudun koulutuskuntayhtymä\C#\11 List-luokka\11. Tehtävä 8 oikea\11. Tehtävä 8 oikea\obj\Debug\_11.Tehtävä_8_oikea.exe
+C:\Users\179909\OneDrive - Salon seudun koulutuskuntayhtymä\C#\11 List-luokka\11. Tehtävä 8 oikea\11. Tehtävä 8 oikea\obj\Debug\_11.Tehtävä_8_oikea.pdb

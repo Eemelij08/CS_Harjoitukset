@@ -1,0 +1,7 @@
+D:\Koulu_Koodaus\Tähän tulee tehtävät\12. Tehtävä 6 uusi\12. Tehtävä 6 uusi\bin\Debug\_12.Tehtävä_6_uusi.exe.config
+D:\Koulu_Koodaus\Tähän tulee tehtävät\12. Tehtävä 6 uusi\12. Tehtävä 6 uusi\bin\Debug\_12.Tehtävä_6_uusi.exe
+D:\Koulu_Koodaus\Tähän tulee tehtävät\12. Tehtävä 6 uusi\12. Tehtävä 6 uusi\bin\Debug\_12.Tehtävä_6_uusi.pdb
+D:\Koulu_Koodaus\Tähän tulee tehtävät\12. Tehtävä 6 uusi\12. Tehtävä 6 uusi\obj\Debug\12. Tehtävä 6 uusi.csproj.AssemblyReference.cache
+D:\Koulu_Koodaus\Tähän tulee tehtävät\12. Tehtävä 6 uusi\12. Tehtävä 6 uusi\obj\Debug\12. Tehtävä 6 uusi.csproj.CoreCompileInputs.cache
+D:\Koulu_Koodaus\Tähän tulee tehtävät\12. Tehtävä 6 uusi\12. Tehtävä 6 uusi\obj\Debug\_12.Tehtävä_6_uusi.exe
+D:\Koulu_Koodaus\Tähän tulee tehtävät\12. Tehtävä 6 uusi\12. Tehtävä 6 uusi\obj\Debug\_12.Tehtävä_6_uusi.pdb

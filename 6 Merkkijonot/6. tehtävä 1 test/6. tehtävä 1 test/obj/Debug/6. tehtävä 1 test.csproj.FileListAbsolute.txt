@@ -1,0 +1,7 @@
+C:\Users\179909\OneDrive - Salon seudun koulutuskuntayhtymä\C#\6 Merkkijonot\6. tehtävä 1 test\6. tehtävä 1 test\obj\Debug\6. tehtävä 1 test.csproj.AssemblyReference.cache
+C:\Users\179909\OneDrive - Salon seudun koulutuskuntayhtymä\C#\6 Merkkijonot\6. tehtävä 1 test\6. tehtävä 1 test\obj\Debug\6. tehtävä 1 test.csproj.CoreCompileInputs.cache
+C:\Users\179909\OneDrive - Salon seudun koulutuskuntayhtymä\C#\6 Merkkijonot\6. tehtävä 1 test\6. tehtävä 1 test\bin\Debug\_6.tehtävä_1_test.exe.config
+C:\Users\179909\OneDrive - Salon seudun koulutuskuntayhtymä\C#\6 Merkkijonot\6. tehtävä 1 test\6. tehtävä 1 test\bin\Debug\_6.tehtävä_1_test.exe
+C:\Users\179909\OneDrive - Salon seudun koulutuskuntayhtymä\C#\6 Merkkijonot\6. tehtävä 1 test\6. tehtävä 1 test\bin\Debug\_6.tehtävä_1_test.pdb
+C:\Users\179909\OneDrive - Salon seudun koulutuskuntayhtymä\C#\6 Merkkijonot\6. tehtävä 1 test\6. tehtävä 1 test\obj\Debug\_6.tehtävä_1_test.exe
+C:\Users\179909\OneDrive - Salon seudun koulutuskuntayhtymä\C#\6 Merkkijonot\6. tehtävä 1 test\6. tehtävä 1 test\obj\Debug\_6.tehtävä_1_test.pdb

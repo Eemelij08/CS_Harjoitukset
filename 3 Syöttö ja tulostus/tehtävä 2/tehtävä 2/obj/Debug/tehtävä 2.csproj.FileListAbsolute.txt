@@ -1,0 +1,7 @@
+C:\Users\179909\OneDrive - Salon seudun koulutuskuntayhtymä\C#\3 Syöttö ja tulostus\tehtävä 2\tehtävä 2\bin\Debug\tehtävä 2.exe.config
+C:\Users\179909\OneDrive - Salon seudun koulutuskuntayhtymä\C#\3 Syöttö ja tulostus\tehtävä 2\tehtävä 2\bin\Debug\tehtävä 2.exe
+C:\Users\179909\OneDrive - Salon seudun koulutuskuntayhtymä\C#\3 Syöttö ja tulostus\tehtävä 2\tehtävä 2\bin\Debug\tehtävä 2.pdb
+C:\Users\179909\OneDrive - Salon seudun koulutuskuntayhtymä\C#\3 Syöttö ja tulostus\tehtävä 2\tehtävä 2\obj\Debug\tehtävä 2.csproj.AssemblyReference.cache
+C:\Users\179909\OneDrive - Salon seudun koulutuskuntayhtymä\C#\3 Syöttö ja tulostus\tehtävä 2\tehtävä 2\obj\Debug\tehtävä 2.csproj.CoreCompileInputs.cache
+C:\Users\179909\OneDrive - Salon seudun koulutuskuntayhtymä\C#\3 Syöttö ja tulostus\tehtävä 2\tehtävä 2\obj\Debug\tehtävä 2.exe
+C:\Users\179909\OneDrive - Salon seudun koulutuskuntayhtymä\C#\3 Syöttö ja tulostus\tehtävä 2\tehtävä 2\obj\Debug\tehtävä 2.pdb

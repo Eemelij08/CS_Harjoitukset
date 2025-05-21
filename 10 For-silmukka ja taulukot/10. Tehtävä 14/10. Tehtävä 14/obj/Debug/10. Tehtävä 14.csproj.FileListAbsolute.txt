@@ -1,0 +1,7 @@
+C:\Users\179909\OneDrive - Salon seudun koulutuskuntayhtymä\C#\10 For-silmukka ja taulukot\10. Tehtävä 14\10. Tehtävä 14\bin\Debug\_10.Tehtävä_14.exe.config
+C:\Users\179909\OneDrive - Salon seudun koulutuskuntayhtymä\C#\10 For-silmukka ja taulukot\10. Tehtävä 14\10. Tehtävä 14\bin\Debug\_10.Tehtävä_14.exe
+C:\Users\179909\OneDrive - Salon seudun koulutuskuntayhtymä\C#\10 For-silmukka ja taulukot\10. Tehtävä 14\10. Tehtävä 14\bin\Debug\_10.Tehtävä_14.pdb
+C:\Users\179909\OneDrive - Salon seudun koulutuskuntayhtymä\C#\10 For-silmukka ja taulukot\10. Tehtävä 14\10. Tehtävä 14\obj\Debug\10. Tehtävä 14.csproj.AssemblyReference.cache
+C:\Users\179909\OneDrive - Salon seudun koulutuskuntayhtymä\C#\10 For-silmukka ja taulukot\10. Tehtävä 14\10. Tehtävä 14\obj\Debug\10. Tehtävä 14.csproj.CoreCompileInputs.cache
+C:\Users\179909\OneDrive - Salon seudun koulutuskuntayhtymä\C#\10 For-silmukka ja taulukot\10. Tehtävä 14\10. Tehtävä 14\obj\Debug\_10.Tehtävä_14.exe
+C:\Users\179909\OneDrive - Salon seudun koulutuskuntayhtymä\C#\10 For-silmukka ja taulukot\10. Tehtävä 14\10. Tehtävä 14\obj\Debug\_10.Tehtävä_14.pdb

@@ -1,0 +1,7 @@
+C:\Users\179909\OneDrive - Salon seudun koulutuskuntayhtymä\C#\11 List-luokka\11. Tehtävä 11 uus\11. Tehtävä 11 uus\bin\Debug\_11.Tehtävä_11_uus.exe.config
+C:\Users\179909\OneDrive - Salon seudun koulutuskuntayhtymä\C#\11 List-luokka\11. Tehtävä 11 uus\11. Tehtävä 11 uus\bin\Debug\_11.Tehtävä_11_uus.exe
+C:\Users\179909\OneDrive - Salon seudun koulutuskuntayhtymä\C#\11 List-luokka\11. Tehtävä 11 uus\11. Tehtävä 11 uus\bin\Debug\_11.Tehtävä_11_uus.pdb
+C:\Users\179909\OneDrive - Salon seudun koulutuskuntayhtymä\C#\11 List-luokka\11. Tehtävä 11 uus\11. Tehtävä 11 uus\obj\Debug\11. Tehtävä 11 uus.csproj.AssemblyReference.cache
+C:\Users\179909\OneDrive - Salon seudun koulutuskuntayhtymä\C#\11 List-luokka\11. Tehtävä 11 uus\11. Tehtävä 11 uus\obj\Debug\11. Tehtävä 11 uus.csproj.CoreCompileInputs.cache
+C:\Users\179909\OneDrive - Salon seudun koulutuskuntayhtymä\C#\11 List-luokka\11. Tehtävä 11 uus\11. Tehtävä 11 uus\obj\Debug\_11.Tehtävä_11_uus.exe
+C:\Users\179909\OneDrive - Salon seudun koulutuskuntayhtymä\C#\11 List-luokka\11. Tehtävä 11 uus\11. Tehtävä 11 uus\obj\Debug\_11.Tehtävä_11_uus.pdb

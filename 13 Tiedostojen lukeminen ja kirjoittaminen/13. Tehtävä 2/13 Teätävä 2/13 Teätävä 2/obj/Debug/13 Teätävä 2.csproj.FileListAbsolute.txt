@@ -1,0 +1,7 @@
+D:\Koulu_Koodaus\13\13. Tehtävä 2\13 Teätävä 2\13 Teätävä 2\bin\Debug\13 Teätävä 2.exe.config
+D:\Koulu_Koodaus\13\13. Tehtävä 2\13 Teätävä 2\13 Teätävä 2\bin\Debug\13 Teätävä 2.exe
+D:\Koulu_Koodaus\13\13. Tehtävä 2\13 Teätävä 2\13 Teätävä 2\bin\Debug\13 Teätävä 2.pdb
+D:\Koulu_Koodaus\13\13. Tehtävä 2\13 Teätävä 2\13 Teätävä 2\obj\Debug\13 Teätävä 2.csproj.AssemblyReference.cache
+D:\Koulu_Koodaus\13\13. Tehtävä 2\13 Teätävä 2\13 Teätävä 2\obj\Debug\13 Teätävä 2.csproj.CoreCompileInputs.cache
+D:\Koulu_Koodaus\13\13. Tehtävä 2\13 Teätävä 2\13 Teätävä 2\obj\Debug\13 Teätävä 2.exe
+D:\Koulu_Koodaus\13\13. Tehtävä 2\13 Teätävä 2\13 Teätävä 2\obj\Debug\13 Teätävä 2.pdb

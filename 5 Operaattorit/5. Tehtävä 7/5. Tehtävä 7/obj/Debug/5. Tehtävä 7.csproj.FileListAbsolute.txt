@@ -1,0 +1,7 @@
+C:\Users\179909\OneDrive - Salon seudun koulutuskuntayhtymä\C#\5 Operaattorit\5. Tehtävä 7\5. Tehtävä 7\bin\Debug\_5.Tehtävä_7.exe.config
+C:\Users\179909\OneDrive - Salon seudun koulutuskuntayhtymä\C#\5 Operaattorit\5. Tehtävä 7\5. Tehtävä 7\bin\Debug\_5.Tehtävä_7.exe
+C:\Users\179909\OneDrive - Salon seudun koulutuskuntayhtymä\C#\5 Operaattorit\5. Tehtävä 7\5. Tehtävä 7\bin\Debug\_5.Tehtävä_7.pdb
+C:\Users\179909\OneDrive - Salon seudun koulutuskuntayhtymä\C#\5 Operaattorit\5. Tehtävä 7\5. Tehtävä 7\obj\Debug\5. Tehtävä 7.csproj.AssemblyReference.cache
+C:\Users\179909\OneDrive - Salon seudun koulutuskuntayhtymä\C#\5 Operaattorit\5. Tehtävä 7\5. Tehtävä 7\obj\Debug\5. Tehtävä 7.csproj.CoreCompileInputs.cache
+C:\Users\179909\OneDrive - Salon seudun koulutuskuntayhtymä\C#\5 Operaattorit\5. Tehtävä 7\5. Tehtävä 7\obj\Debug\_5.Tehtävä_7.exe
+C:\Users\179909\OneDrive - Salon seudun koulutuskuntayhtymä\C#\5 Operaattorit\5. Tehtävä 7\5. Tehtävä 7\obj\Debug\_5.Tehtävä_7.pdb

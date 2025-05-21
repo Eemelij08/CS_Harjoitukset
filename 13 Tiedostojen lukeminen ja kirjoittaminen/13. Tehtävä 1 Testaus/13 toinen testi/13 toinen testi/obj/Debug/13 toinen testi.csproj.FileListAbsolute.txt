@@ -1,0 +1,7 @@
+D:\Koulu_Koodaus\13\13. Tehtävä 1 Testaus\13 toinen testi\13 toinen testi\bin\Debug\13 toinen testi.exe.config
+D:\Koulu_Koodaus\13\13. Tehtävä 1 Testaus\13 toinen testi\13 toinen testi\bin\Debug\13 toinen testi.exe
+D:\Koulu_Koodaus\13\13. Tehtävä 1 Testaus\13 toinen testi\13 toinen testi\bin\Debug\13 toinen testi.pdb
+D:\Koulu_Koodaus\13\13. Tehtävä 1 Testaus\13 toinen testi\13 toinen testi\obj\Debug\13 toinen testi.csproj.AssemblyReference.cache
+D:\Koulu_Koodaus\13\13. Tehtävä 1 Testaus\13 toinen testi\13 toinen testi\obj\Debug\13 toinen testi.csproj.CoreCompileInputs.cache
+D:\Koulu_Koodaus\13\13. Tehtävä 1 Testaus\13 toinen testi\13 toinen testi\obj\Debug\13 toinen testi.exe
+D:\Koulu_Koodaus\13\13. Tehtävä 1 Testaus\13 toinen testi\13 toinen testi\obj\Debug\13 toinen testi.pdb

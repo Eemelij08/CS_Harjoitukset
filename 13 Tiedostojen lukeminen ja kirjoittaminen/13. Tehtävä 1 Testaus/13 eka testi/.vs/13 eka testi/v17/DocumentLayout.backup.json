@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Koulu_Koodaus\\13\\13. Teht\u00E4v\u00E4 1 Testaus\\13 eka testi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{643EE254-388E-4C98-9BF6-C07969C27B2C}|13 eka testi\\13 eka testi.csproj|d:\\koulu_koodaus\\13\\13. teht\u00E4v\u00E4 1 testaus\\13 eka testi\\13 eka testi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{643EE254-388E-4C98-9BF6-C07969C27B2C}|13 eka testi\\13 eka testi.csproj|solutionrelative:13 eka testi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Koulu_Koodaus\\13\\13. Teht\u00E4v\u00E4 1 Testaus\\13 eka testi\\13 eka testi\\Program.cs",
+              "RelativeDocumentMoniker": "13 eka testi\\Program.cs",
+              "ToolTip": "D:\\Koulu_Koodaus\\13\\13. Teht\u00E4v\u00E4 1 Testaus\\13 eka testi\\13 eka testi\\Program.cs",
+              "RelativeToolTip": "13 eka testi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T08:56:53.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+C:\Users\179909\OneDrive - Salon seudun koulutuskuntayhtymä\C#\10 For-silmukka ja taulukot\10 testi\10 testi\bin\Debug\10 testi.exe.config
+C:\Users\179909\OneDrive - Salon seudun koulutuskuntayhtymä\C#\10 For-silmukka ja taulukot\10 testi\10 testi\bin\Debug\10 testi.exe
+C:\Users\179909\OneDrive - Salon seudun koulutuskuntayhtymä\C#\10 For-silmukka ja taulukot\10 testi\10 testi\bin\Debug\10 testi.pdb
+C:\Users\179909\OneDrive - Salon seudun koulutuskuntayhtymä\C#\10 For-silmukka ja taulukot\10 testi\10 testi\obj\Debug\10 testi.csproj.AssemblyReference.cache
+C:\Users\179909\OneDrive - Salon seudun koulutuskuntayhtymä\C#\10 For-silmukka ja taulukot\10 testi\10 testi\obj\Debug\10 testi.csproj.CoreCompileInputs.cache
+C:\Users\179909\OneDrive - Salon seudun koulutuskuntayhtymä\C#\10 For-silmukka ja taulukot\10 testi\10 testi\obj\Debug\10 testi.exe
+C:\Users\179909\OneDrive - Salon seudun koulutuskuntayhtymä\C#\10 For-silmukka ja taulukot\10 testi\10 testi\obj\Debug\10 testi.pdb

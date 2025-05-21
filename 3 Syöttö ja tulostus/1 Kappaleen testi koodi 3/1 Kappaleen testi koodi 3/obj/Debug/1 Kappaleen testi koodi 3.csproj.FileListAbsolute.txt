@@ -1,0 +1,7 @@
+C:\Users\179909\OneDrive - Salon seudun koulutuskuntayhtymä\C#\3 Syöttö ja tulostus\1 Kappaleen testi koodi 3\1 Kappaleen testi koodi 3\bin\Debug\1 Kappaleen testi koodi 3.exe.config
+C:\Users\179909\OneDrive - Salon seudun koulutuskuntayhtymä\C#\3 Syöttö ja tulostus\1 Kappaleen testi koodi 3\1 Kappaleen testi koodi 3\bin\Debug\1 Kappaleen testi koodi 3.exe
+C:\Users\179909\OneDrive - Salon seudun koulutuskuntayhtymä\C#\3 Syöttö ja tulostus\1 Kappaleen testi koodi 3\1 Kappaleen testi koodi 3\bin\Debug\1 Kappaleen testi koodi 3.pdb
+C:\Users\179909\OneDrive - Salon seudun koulutuskuntayhtymä\C#\3 Syöttö ja tulostus\1 Kappaleen testi koodi 3\1 Kappaleen testi koodi 3\obj\Debug\1 Kappaleen testi koodi 3.csproj.AssemblyReference.cache
+C:\Users\179909\OneDrive - Salon seudun koulutuskuntayhtymä\C#\3 Syöttö ja tulostus\1 Kappaleen testi koodi 3\1 Kappaleen testi koodi 3\obj\Debug\1 Kappaleen testi koodi 3.csproj.CoreCompileInputs.cache
+C:\Users\179909\OneDrive - Salon seudun koulutuskuntayhtymä\C#\3 Syöttö ja tulostus\1 Kappaleen testi koodi 3\1 Kappaleen testi koodi 3\obj\Debug\1 Kappaleen testi koodi 3.exe
+C:\Users\179909\OneDrive - Salon seudun koulutuskuntayhtymä\C#\3 Syöttö ja tulostus\1 Kappaleen testi koodi 3\1 Kappaleen testi koodi 3\obj\Debug\1 Kappaleen testi koodi 3.pdb

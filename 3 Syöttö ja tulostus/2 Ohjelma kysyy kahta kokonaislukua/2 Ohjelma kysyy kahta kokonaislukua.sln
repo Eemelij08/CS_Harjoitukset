@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2 Ohjelma kysyy kahta kokonaislukua", "2 Ohjelma kysyy kahta kokonaislukua\2 Ohjelma kysyy kahta kokonaislukua.csproj", "{BE1CD477-175F-42BE-9F30-EDAE7AD5D0AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE1CD477-175F-42BE-9F30-EDAE7AD5D0AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE1CD477-175F-42BE-9F30-EDAE7AD5D0AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE1CD477-175F-42BE-9F30-EDAE7AD5D0AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE1CD477-175F-42BE-9F30-EDAE7AD5D0AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {17353BA2-FDDE-4E2D-9C1E-6F09D6F7274C}
+	EndGlobalSection
+EndGlobal

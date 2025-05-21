@@ -1,0 +1,7 @@
+C:\Users\179909\OneDrive - Salon seudun koulutuskuntayhtymä\C#\4 Tietotyypit ja muuttujat\4. Tehtävä 8\4. Tehtävä 8\bin\Debug\_4.Tehtävä_8.exe.config
+C:\Users\179909\OneDrive - Salon seudun koulutuskuntayhtymä\C#\4 Tietotyypit ja muuttujat\4. Tehtävä 8\4. Tehtävä 8\bin\Debug\_4.Tehtävä_8.exe
+C:\Users\179909\OneDrive - Salon seudun koulutuskuntayhtymä\C#\4 Tietotyypit ja muuttujat\4. Tehtävä 8\4. Tehtävä 8\bin\Debug\_4.Tehtävä_8.pdb
+C:\Users\179909\OneDrive - Salon seudun koulutuskuntayhtymä\C#\4 Tietotyypit ja muuttujat\4. Tehtävä 8\4. Tehtävä 8\obj\Debug\4. Tehtävä 8.csproj.AssemblyReference.cache
+C:\Users\179909\OneDrive - Salon seudun koulutuskuntayhtymä\C#\4 Tietotyypit ja muuttujat\4. Tehtävä 8\4. Tehtävä 8\obj\Debug\4. Tehtävä 8.csproj.CoreCompileInputs.cache
+C:\Users\179909\OneDrive - Salon seudun koulutuskuntayhtymä\C#\4 Tietotyypit ja muuttujat\4. Tehtävä 8\4. Tehtävä 8\obj\Debug\_4.Tehtävä_8.exe
+C:\Users\179909\OneDrive - Salon seudun koulutuskuntayhtymä\C#\4 Tietotyypit ja muuttujat\4. Tehtävä 8\4. Tehtävä 8\obj\Debug\_4.Tehtävä_8.pdb

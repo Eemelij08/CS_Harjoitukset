@@ -1,0 +1,7 @@
+C:\Users\179909\OneDrive - Salon seudun koulutuskuntayhtymä\C#\11 List-luokka\11. Tehtävä 6\11. Tehtävä 6\bin\Debug\_11.Tehtävä_6.exe.config
+C:\Users\179909\OneDrive - Salon seudun koulutuskuntayhtymä\C#\11 List-luokka\11. Tehtävä 6\11. Tehtävä 6\bin\Debug\_11.Tehtävä_6.exe
+C:\Users\179909\OneDrive - Salon seudun koulutuskuntayhtymä\C#\11 List-luokka\11. Tehtävä 6\11. Tehtävä 6\bin\Debug\_11.Tehtävä_6.pdb
+C:\Users\179909\OneDrive - Salon seudun koulutuskuntayhtymä\C#\11 List-luokka\11. Tehtävä 6\11. Tehtävä 6\obj\Debug\11. Tehtävä 6.csproj.AssemblyReference.cache
+C:\Users\179909\OneDrive - Salon seudun koulutuskuntayhtymä\C#\11 List-luokka\11. Tehtävä 6\11. Tehtävä 6\obj\Debug\11. Tehtävä 6.csproj.CoreCompileInputs.cache
+C:\Users\179909\OneDrive - Salon seudun koulutuskuntayhtymä\C#\11 List-luokka\11. Tehtävä 6\11. Tehtävä 6\obj\Debug\_11.Tehtävä_6.exe
+C:\Users\179909\OneDrive - Salon seudun koulutuskuntayhtymä\C#\11 List-luokka\11. Tehtävä 6\11. Tehtävä 6\obj\Debug\_11.Tehtävä_6.pdb

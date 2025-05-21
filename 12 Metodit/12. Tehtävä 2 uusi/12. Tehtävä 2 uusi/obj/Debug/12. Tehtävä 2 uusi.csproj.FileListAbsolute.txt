@@ -1,0 +1,7 @@
+C:\Users\179909\OneDrive - Salon seudun koulutuskuntayhtymä\C#\12 Metodit\12. Tehtävä 2 uusi\12. Tehtävä 2 uusi\bin\Debug\_12.Tehtävä_2_uusi.exe.config
+C:\Users\179909\OneDrive - Salon seudun koulutuskuntayhtymä\C#\12 Metodit\12. Tehtävä 2 uusi\12. Tehtävä 2 uusi\bin\Debug\_12.Tehtävä_2_uusi.exe
+C:\Users\179909\OneDrive - Salon seudun koulutuskuntayhtymä\C#\12 Metodit\12. Tehtävä 2 uusi\12. Tehtävä 2 uusi\bin\Debug\_12.Tehtävä_2_uusi.pdb
+C:\Users\179909\OneDrive - Salon seudun koulutuskuntayhtymä\C#\12 Metodit\12. Tehtävä 2 uusi\12. Tehtävä 2 uusi\obj\Debug\12. Tehtävä 2 uusi.csproj.AssemblyReference.cache
+C:\Users\179909\OneDrive - Salon seudun koulutuskuntayhtymä\C#\12 Metodit\12. Tehtävä 2 uusi\12. Tehtävä 2 uusi\obj\Debug\12. Tehtävä 2 uusi.csproj.CoreCompileInputs.cache
+C:\Users\179909\OneDrive - Salon seudun koulutuskuntayhtymä\C#\12 Metodit\12. Tehtävä 2 uusi\12. Tehtävä 2 uusi\obj\Debug\_12.Tehtävä_2_uusi.exe
+C:\Users\179909\OneDrive - Salon seudun koulutuskuntayhtymä\C#\12 Metodit\12. Tehtävä 2 uusi\12. Tehtävä 2 uusi\obj\Debug\_12.Tehtävä_2_uusi.pdb

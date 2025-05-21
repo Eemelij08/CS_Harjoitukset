@@ -1,0 +1,7 @@
+C:\Users\179909\OneDrive - Salon seudun koulutuskuntayhtymä\C#\3 Syöttö ja tulostus\1 kappaleen koodi testi\1 kappaleen koodi testi\bin\Debug\1 kappaleen koodi testi.exe.config
+C:\Users\179909\OneDrive - Salon seudun koulutuskuntayhtymä\C#\3 Syöttö ja tulostus\1 kappaleen koodi testi\1 kappaleen koodi testi\bin\Debug\1 kappaleen koodi testi.exe
+C:\Users\179909\OneDrive - Salon seudun koulutuskuntayhtymä\C#\3 Syöttö ja tulostus\1 kappaleen koodi testi\1 kappaleen koodi testi\bin\Debug\1 kappaleen koodi testi.pdb
+C:\Users\179909\OneDrive - Salon seudun koulutuskuntayhtymä\C#\3 Syöttö ja tulostus\1 kappaleen koodi testi\1 kappaleen koodi testi\obj\Debug\1 kappaleen koodi testi.csproj.AssemblyReference.cache
+C:\Users\179909\OneDrive - Salon seudun koulutuskuntayhtymä\C#\3 Syöttö ja tulostus\1 kappaleen koodi testi\1 kappaleen koodi testi\obj\Debug\1 kappaleen koodi testi.csproj.CoreCompileInputs.cache
+C:\Users\179909\OneDrive - Salon seudun koulutuskuntayhtymä\C#\3 Syöttö ja tulostus\1 kappaleen koodi testi\1 kappaleen koodi testi\obj\Debug\1 kappaleen koodi testi.exe
+C:\Users\179909\OneDrive - Salon seudun koulutuskuntayhtymä\C#\3 Syöttö ja tulostus\1 kappaleen koodi testi\1 kappaleen koodi testi\obj\Debug\1 kappaleen koodi testi.pdb

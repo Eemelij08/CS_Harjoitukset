@@ -1,0 +1,7 @@
+C:\Users\179909\OneDrive - Salon seudun koulutuskuntayhtymä\C#\Testi kansio\methods\Parametrit ja Argumentit\1. Eemeli Jalonen\1. Eemeli Jalonen\obj\Debug\1. Eemeli Jalonen.csproj.AssemblyReference.cache
+C:\Users\179909\OneDrive - Salon seudun koulutuskuntayhtymä\C#\Testi kansio\methods\Parametrit ja Argumentit\1. Eemeli Jalonen\1. Eemeli Jalonen\obj\Debug\1. Eemeli Jalonen.csproj.CoreCompileInputs.cache
+C:\Users\179909\OneDrive - Salon seudun koulutuskuntayhtymä\C#\Testi kansio\methods\Parametrit ja Argumentit\1. Eemeli Jalonen\1. Eemeli Jalonen\bin\Debug\_1.Eemeli_Jalonen.exe.config
+C:\Users\179909\OneDrive - Salon seudun koulutuskuntayhtymä\C#\Testi kansio\methods\Parametrit ja Argumentit\1. Eemeli Jalonen\1. Eemeli Jalonen\bin\Debug\_1.Eemeli_Jalonen.exe
+C:\Users\179909\OneDrive - Salon seudun koulutuskuntayhtymä\C#\Testi kansio\methods\Parametrit ja Argumentit\1. Eemeli Jalonen\1. Eemeli Jalonen\bin\Debug\_1.Eemeli_Jalonen.pdb
+C:\Users\179909\OneDrive - Salon seudun koulutuskuntayhtymä\C#\Testi kansio\methods\Parametrit ja Argumentit\1. Eemeli Jalonen\1. Eemeli Jalonen\obj\Debug\_1.Eemeli_Jalonen.exe
+C:\Users\179909\OneDrive - Salon seudun koulutuskuntayhtymä\C#\Testi kansio\methods\Parametrit ja Argumentit\1. Eemeli Jalonen\1. Eemeli Jalonen\obj\Debug\_1.Eemeli_Jalonen.pdb

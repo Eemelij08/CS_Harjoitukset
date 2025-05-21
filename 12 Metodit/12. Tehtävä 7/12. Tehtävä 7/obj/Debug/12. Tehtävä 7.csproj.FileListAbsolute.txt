@@ -1,0 +1,7 @@
+D:\Koulu_Koodaus\Tähän tulee tehtävät\12. Tehtävä 7\12. Tehtävä 7\bin\Debug\_12.Tehtävä_7.exe.config
+D:\Koulu_Koodaus\Tähän tulee tehtävät\12. Tehtävä 7\12. Tehtävä 7\bin\Debug\_12.Tehtävä_7.exe
+D:\Koulu_Koodaus\Tähän tulee tehtävät\12. Tehtävä 7\12. Tehtävä 7\bin\Debug\_12.Tehtävä_7.pdb
+D:\Koulu_Koodaus\Tähän tulee tehtävät\12. Tehtävä 7\12. Tehtävä 7\obj\Debug\12. Tehtävä 7.csproj.AssemblyReference.cache
+D:\Koulu_Koodaus\Tähän tulee tehtävät\12. Tehtävä 7\12. Tehtävä 7\obj\Debug\12. Tehtävä 7.csproj.CoreCompileInputs.cache
+D:\Koulu_Koodaus\Tähän tulee tehtävät\12. Tehtävä 7\12. Tehtävä 7\obj\Debug\_12.Tehtävä_7.exe
+D:\Koulu_Koodaus\Tähän tulee tehtävät\12. Tehtävä 7\12. Tehtävä 7\obj\Debug\_12.Tehtävä_7.pdb

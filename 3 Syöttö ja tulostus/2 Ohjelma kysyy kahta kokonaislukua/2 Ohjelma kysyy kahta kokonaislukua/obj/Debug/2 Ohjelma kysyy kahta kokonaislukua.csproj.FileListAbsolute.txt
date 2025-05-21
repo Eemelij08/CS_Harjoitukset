@@ -1,0 +1,7 @@
+C:\Users\179909\OneDrive - Salon seudun koulutuskuntayhtymä\C#\3 Syöttö ja tulostus\2 Ohjelma kysyy kahta kokonaislukua\2 Ohjelma kysyy kahta kokonaislukua\obj\Debug\2 Ohjelma kysyy kahta kokonaislukua.csproj.AssemblyReference.cache
+C:\Users\179909\OneDrive - Salon seudun koulutuskuntayhtymä\C#\3 Syöttö ja tulostus\2 Ohjelma kysyy kahta kokonaislukua\2 Ohjelma kysyy kahta kokonaislukua\obj\Debug\2 Ohjelma kysyy kahta kokonaislukua.csproj.CoreCompileInputs.cache
+C:\Users\179909\OneDrive - Salon seudun koulutuskuntayhtymä\C#\3 Syöttö ja tulostus\2 Ohjelma kysyy kahta kokonaislukua\2 Ohjelma kysyy kahta kokonaislukua\bin\Debug\2 Ohjelma kysyy kahta kokonaislukua.exe.config
+C:\Users\179909\OneDrive - Salon seudun koulutuskuntayhtymä\C#\3 Syöttö ja tulostus\2 Ohjelma kysyy kahta kokonaislukua\2 Ohjelma kysyy kahta kokonaislukua\bin\Debug\2 Ohjelma kysyy kahta kokonaislukua.exe
+C:\Users\179909\OneDrive - Salon seudun koulutuskuntayhtymä\C#\3 Syöttö ja tulostus\2 Ohjelma kysyy kahta kokonaislukua\2 Ohjelma kysyy kahta kokonaislukua\bin\Debug\2 Ohjelma kysyy kahta kokonaislukua.pdb
+C:\Users\179909\OneDrive - Salon seudun koulutuskuntayhtymä\C#\3 Syöttö ja tulostus\2 Ohjelma kysyy kahta kokonaislukua\2 Ohjelma kysyy kahta kokonaislukua\obj\Debug\2 Ohjelma kysyy kahta kokonaislukua.exe
+C:\Users\179909\OneDrive - Salon seudun koulutuskuntayhtymä\C#\3 Syöttö ja tulostus\2 Ohjelma kysyy kahta kokonaislukua\2 Ohjelma kysyy kahta kokonaislukua\obj\Debug\2 Ohjelma kysyy kahta kokonaislukua.pdb

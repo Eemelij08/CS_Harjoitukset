@@ -1,0 +1,7 @@
+C:\Users\179909\OneDrive - Salon seudun koulutuskuntayhtymä\C#\6 Merkkijonot\6. joku testi varmaankin\6. joku testi varmaankin\bin\Debug\_6.joku_testi_varmaankin.exe.config
+C:\Users\179909\OneDrive - Salon seudun koulutuskuntayhtymä\C#\6 Merkkijonot\6. joku testi varmaankin\6. joku testi varmaankin\bin\Debug\_6.joku_testi_varmaankin.exe
+C:\Users\179909\OneDrive - Salon seudun koulutuskuntayhtymä\C#\6 Merkkijonot\6. joku testi varmaankin\6. joku testi varmaankin\bin\Debug\_6.joku_testi_varmaankin.pdb
+C:\Users\179909\OneDrive - Salon seudun koulutuskuntayhtymä\C#\6 Merkkijonot\6. joku testi varmaankin\6. joku testi varmaankin\obj\Debug\6. joku testi varmaankin.csproj.AssemblyReference.cache
+C:\Users\179909\OneDrive - Salon seudun koulutuskuntayhtymä\C#\6 Merkkijonot\6. joku testi varmaankin\6. joku testi varmaankin\obj\Debug\6. joku testi varmaankin.csproj.CoreCompileInputs.cache
+C:\Users\179909\OneDrive - Salon seudun koulutuskuntayhtymä\C#\6 Merkkijonot\6. joku testi varmaankin\6. joku testi varmaankin\obj\Debug\_6.joku_testi_varmaankin.exe
+C:\Users\179909\OneDrive - Salon seudun koulutuskuntayhtymä\C#\6 Merkkijonot\6. joku testi varmaankin\6. joku testi varmaankin\obj\Debug\_6.joku_testi_varmaankin.pdb

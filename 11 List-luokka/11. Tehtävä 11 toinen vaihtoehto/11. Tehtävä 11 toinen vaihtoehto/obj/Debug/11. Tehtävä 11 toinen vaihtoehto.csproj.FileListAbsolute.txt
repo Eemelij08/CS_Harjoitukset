@@ -1,0 +1,7 @@
+C:\Users\179909\OneDrive - Salon seudun koulutuskuntayhtymä\C#\11 List-luokka\11. Tehtävä 11 toinen vaihtoehto\11. Tehtävä 11 toinen vaihtoehto\bin\Debug\_11.Tehtävä_11_toinen_vaihtoehto.exe.config
+C:\Users\179909\OneDrive - Salon seudun koulutuskuntayhtymä\C#\11 List-luokka\11. Tehtävä 11 toinen vaihtoehto\11. Tehtävä 11 toinen vaihtoehto\bin\Debug\_11.Tehtävä_11_toinen_vaihtoehto.exe
+C:\Users\179909\OneDrive - Salon seudun koulutuskuntayhtymä\C#\11 List-luokka\11. Tehtävä 11 toinen vaihtoehto\11. Tehtävä 11 toinen vaihtoehto\bin\Debug\_11.Tehtävä_11_toinen_vaihtoehto.pdb
+C:\Users\179909\OneDrive - Salon seudun koulutuskuntayhtymä\C#\11 List-luokka\11. Tehtävä 11 toinen vaihtoehto\11. Tehtävä 11 toinen vaihtoehto\obj\Debug\11. Tehtävä 11 toinen vaihtoehto.csproj.AssemblyReference.cache
+C:\Users\179909\OneDrive - Salon seudun koulutuskuntayhtymä\C#\11 List-luokka\11. Tehtävä 11 toinen vaihtoehto\11. Tehtävä 11 toinen vaihtoehto\obj\Debug\11. Tehtävä 11 toinen vaihtoehto.csproj.CoreCompileInputs.cache
+C:\Users\179909\OneDrive - Salon seudun koulutuskuntayhtymä\C#\11 List-luokka\11. Tehtävä 11 toinen vaihtoehto\11. Tehtävä 11 toinen vaihtoehto\obj\Debug\_11.Tehtävä_11_toinen_vaihtoehto.exe
+C:\Users\179909\OneDrive - Salon seudun koulutuskuntayhtymä\C#\11 List-luokka\11. Tehtävä 11 toinen vaihtoehto\11. Tehtävä 11 toinen vaihtoehto\obj\Debug\_11.Tehtävä_11_toinen_vaihtoehto.pdb
